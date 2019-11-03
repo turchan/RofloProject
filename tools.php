@@ -23,7 +23,7 @@
                             </p>
                         </div>
                         <div class="card-footer">
-                            <a href="/web_technologies_project/cone.php#" class="card-link">Go there</a>
+                            <a href="/RofloProject/cone.php#" class="card-link">Go there</a>
                         </div>
                     </div>
                 </div>
@@ -39,7 +39,7 @@
                             </p>
                         </div>
                         <div class="card-footer">
-                            <a href="/web_technologies_project/roomAirVolume.php#" class="card-link">Go There</a>
+                            <a href="/RofloProject/roomAirVolume.php#" class="card-link">Go There</a>
                         </div>
                     </div>
                 </div>

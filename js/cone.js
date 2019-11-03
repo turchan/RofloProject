@@ -9,10 +9,6 @@ $(document).ready(function() {
         var cone_length = Math.sqrt(Math.pow(height_value, 2) + Math.pow(radius, 2));
         var surface = 3.1415 * radius * (parseInt(radius)+ parseInt(cone_length));
 
-        alert(surface);
-
-        alert(cone_length + ", " + surface);
-
         $('#results').append('<h3>Radius: <strong id="radius_result"></strong></h3>');
         $('#results').append('<h3>Height Value: <strong id="height_value_result"></strong></h3>');
         $('#results').append('<h3>Volume: <strong id="volume"></strong></h3>');
