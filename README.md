@@ -1,5 +1,29 @@
-# RoflProject
+# RofloProject
 
-This project was created for the University course of Advantage WEB Applications. Mandatory it realizes calculating properties of a cone, calculating the number of heaters based on the room volume with using technologies PHP, jQuery, AJAX, and bootstrap.
+This project realize calculating properties of a cone, calculating the number of heaters based on the room volume.
 
-The final grade for this project is 5.0.
+# Technologies
+
+  - PHP
+  - jQuery
+  - AJAX
+  - JavaScript
+  - Bootstrap
+  
+# Getting Started
+## Prerequisites
+  
+  You need to have XAMPP or LAMP depends on your OS.
+  
+## Install 
+  
+  1) You need to Add the folder of project to your projects file on the server
+  2) Opem the file index.php from from the server via browser 
+  
+# Authors
+  
+- Alex Turchanovskyi - Creator  
+
+# License 
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
